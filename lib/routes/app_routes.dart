@@ -122,5 +122,9 @@ class AppRoutes {
       name: RoutesName.complet,
       page: () => CompletProfil(),
     )
+    //  GetPage(
+    //   name: RoutesName.complet,
+    //   page: () => CompletProfil(),
+    // )
   ];
 }
